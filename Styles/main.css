@@ -1,0 +1,61 @@
+.main{
+    background: #3ab27c;
+    padding: 40px ;
+    width: 800px;
+    height: auto;
+}
+.m2{
+    display: flex;
+
+}
+.card{
+    background: #2d2d2d;
+    box-sizing: border-box;
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+i{
+    color: #3ab27c;
+    font-size: xxx-large;
+    margin-top: 40px;
+}
+.t1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    font-family: Arial;
+}
+img{
+    height: 60px;
+    width: 60px;
+    text-align: center;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.t2{
+    margin-top: 10px;
+    font-family: Arial;
+}
+.John{
+    color: #3ab27c;
+    font-size: x-large;
+    font-family: Arial;
+}
+.Testi{
+    margin: 0px;
+    font-family: Arial;
+    font-size: xx-large;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
